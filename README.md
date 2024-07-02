@@ -3,9 +3,9 @@
  This game is designed by Mahir Patel and Nikhil Zawar as part of COP-290.
 
 ---
- <a href="">Mahir Patel</a> 
+ <a href="https://github.com/MahirPatel16">Mahir Patel</a> 
  \
- <a href="">Nikhil Zawar</a> 
+ <a href="https://github.com/Nikhil-Zawar">Nikhil Zawar</a> 
 
 ## Table of Contents
 
